@@ -32,6 +32,3 @@ It simulates student scores across different departments and performs basic stat
 ---
 
 ## 📂 Project Structure
-
-
-

@@ -7,7 +7,7 @@
 This project demonstrates **data generation, analysis, and visualization** using popular Python libraries such as **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**.  
 It simulates student scores across different departments and performs basic statistical analysis with visual insights.
 
----
+-------------------
 
 ## 🚀 Features
 
